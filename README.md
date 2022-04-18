@@ -3,7 +3,7 @@ The official Docker deployment solution for Mattermost.
 
 ## Install & Usage
 
-Refer to the [Mattermost Docker deployment guide](https://docs.mattermost.com/install/install-docker.html) for instructions on how to install and use this Docker image.
+Requires docker-compose `>= 1.26`. Refer to the [Mattermost Docker deployment guide](https://docs.mattermost.com/install/install-docker.html) for instructions on how to install and use this Docker image. 
 
 ## Contribute
 PRs are welcome, refer to our [contributing guide](https://developers.mattermost.com/contribute/getting-started/) for an overview of the Mattermost contribution process.
